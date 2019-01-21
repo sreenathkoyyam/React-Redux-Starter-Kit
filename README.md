@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App]().
+This project was created using Create React App.
 This App will save text box value in redux stor and it used 1
 
 ## Available Scripts
@@ -15,5 +15,4 @@ You will also see any lint errors in the console.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests]() for more information.
+See the section about running tests
